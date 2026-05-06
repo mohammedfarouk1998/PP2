@@ -71,7 +71,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 **What happens and why?**
 
 <details>
-    <summary>You Answer</summary>
+    <summary> es hat mir folgende Antwort gegeben -bash: return_value: command not found</summary>
     ......
 </details>
 
