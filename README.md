@@ -308,8 +308,8 @@ cat ./function
 
 **What happend?**
 <details>
-    <summary>Your Explaination</summary>
-    .....
+    <summary> mit >> kannst du mehrere Funktionen in einer einzigen Datei sammeln , während > immer nur die letzte Funktion speichert und alles andere löscht .</summary>
+    
 
 </details>
 
