@@ -260,9 +260,7 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
 
 **Write a function, combining at least 3 different of these primitives to a function**
 <details>
-    <summary>Your Function</summary>
-    
-```bash
+
 
 $ pmm_func () {
 > var1=$1
@@ -272,9 +270,7 @@ $ pmm_func () {
 > echo $(( $var1 * $var2)) }
 > }
 
-```
 
-</details>
 
 ### Task 6: Storing Data
 Close your Terminal-Emulator and open it up again. 
@@ -307,13 +303,15 @@ cat ./function
 * Redirect the second function into that file as well, but using the append `>>` operator
 
 **What happend?**
-<details>
-    <summary> mit >> kannst du mehrere Funktionen in einer einzigen Datei sammeln , während > immer nur die letzte Funktion speichert und alles andere löscht .</summary>
+ mit >> kannst du mehrere Funktionen in einer einzigen Datei sammeln , während > immer nur die letzte Funktion speichert und alles andere löscht .
     
+------------------------------------------------------------------
 
-</details>
 
---- 
+
+
+
+
 
 Close the terminal and open it up again. 
 Your memorized function-identifiers have been lost again. 
