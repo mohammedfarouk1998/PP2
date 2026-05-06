@@ -71,7 +71,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 **What happens and why?**
 
 <details>
-    <summary>You Answer</summary>
+    <summary> es hat mir folgende Antwort gegeben -bash: return_value: command not found</summary>
     ......
 </details>
 
@@ -263,7 +263,13 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
     <summary>Your Function</summary>
     
 ```bash
-your code
+$ pmm_func () {
+> var1=$1
+> var2=$2
+> echo $(( $var1 + $var2))
+> echo $(( $var1 - $var2))
+> echo $(( $var1 * $var2)) }
+> }
 ```
 
 </details>
