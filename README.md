@@ -259,7 +259,7 @@ echo {1..5}
 These examples demonstrate various fundamental operations in Bash scripting, including arithmetic calculations, string manipulations, file checks, and the use of logical operators. 
 
 **Write a function, combining at least 3 different of these primitives to a function**
-<details>
+
 
 
 $ pmm_func () {
@@ -349,7 +349,8 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
-    <summary>Your Answer</summary>
+    <summary>/home/MohammedS1998/function
+    /home/MohammedS1998/functions </summary>
     ....
 </details>
 
