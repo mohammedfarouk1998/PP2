@@ -374,7 +374,8 @@ cd /
 ```
 **Run `ls` again and insert the content here:**
 <details>
-    <summary>Your Answer</summary>
+    <summary>bin   dev  home        initrd.img.old  lib64       media  opt   root  sbin  sys  usr  vmlinuz
+boot  etc  initrd.img  lib             lost+found  mnt    proc  run   srv   tmp  var  vmlinuz.old</summary>
     ....
 </details>
 
