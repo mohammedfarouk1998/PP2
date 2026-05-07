@@ -390,7 +390,21 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
 
 **Add a directory into your `~` dir and create an empty file in it. Delete the directory again.**
 <details>
-    <summary>Your Terminal Output</summary>
+    <summary>MohammedS1998@vorlesung:~$ cd sabri.txt
+MohammedS1998@vorlesung:~/sabri.txt$ touch mueller.txt
+MohammedS1998@vorlesung:~/sabri.txt$ ls
+mueller.txt
+MohammedS1998@vorlesung:~/sabri.txt$ cc::
+-bash: cc::: command not found
+MohammedS1998@vorlesung:~/sabri.txt$ c..
+-bash: c..: command not found
+MohammedS1998@vorlesung:~/sabri.txt$ c ..
+-bash: c: command not found
+MohammedS1998@vorlesung:~/sabri.txt$ cd ..
+MohammedS1998@vorlesung:~$ rm -rf sabri.txt
+MohammedS1998@vorlesung:~$ ls
+function  functions  mohamed.txt
+MohammedS1998@vorlesung:~$</summary>
 ```bash
 your terminal output
 ```
